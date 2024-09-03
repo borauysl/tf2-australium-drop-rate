@@ -1,0 +1,1 @@
+with this algortithm you create a probability loop with the same chances per round as the number of rounds you play or plan to play in mvm. It is a console application that calculates the probability of getting an australium items
